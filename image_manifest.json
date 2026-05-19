@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "filename": "hero-banner-construction-site.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1249902/2026-05-19/o2tx5lqaagnq/hero-banner-construction-site.png",
+      "description": "Professional construction site hero banner"
+    },
+    {
+      "filename": "construction-team-collaboration.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1249902/2026-05-19/o2tx5qaaagoq/construction-team-collaboration.png",
+      "description": "Construction workers reviewing blueprints"
+    },
+    {
+      "filename": "document-management-digital.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1249902/2026-05-19/o2tx5hiaagpa/document-management-digital.png",
+      "description": "Document management interface"
+    },
+    {
+      "filename": "calendar-scheduling-construction.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1249902/2026-05-19/o2tyabiaagqq/calendar-scheduling-construction.png",
+      "description": "Calendar and scheduling interface"
+    },
+    {
+      "status": "success",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1249902/2026-05-19/o2ulolyaagqq/batiflow-logo.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1249902/2026-05-19/o2ulolyaagqq/batiflow-logo.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1249902/2026-05-19/o2ulolyaagqq/batiflow-logo.png",
+      "message": "Image generated successfully.\n\nNote: The image is on CDN and will be displayed automatically. Just describe what you created briefly, no need to mention filenames or URLs.",
+      "description": "Modern minimalist logo for Batiflow, a construction site management SaaS app. The logo features a stylized letter B combined with a flowing construction beam or building outline, using orange color on transparent background, clean geometric shapes, professional and tech-forward",
+      "style": "minimalist",
+      "filename": "batiflow-logo.png"
+    }
+  ],
+  "success_count": 1,
+  "failed_count": 0,
+  "message": "Generated 1/1 images"
+}
